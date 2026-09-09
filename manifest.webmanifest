@@ -1,0 +1,12 @@
+{
+  "name":"Eventure",
+  "short_name":"Eventure",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f1f4ef",
+  "theme_color":"#17261f",
+  "icons":[
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
