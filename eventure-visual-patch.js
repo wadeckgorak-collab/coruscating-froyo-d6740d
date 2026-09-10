@@ -1,11 +1,11 @@
 (()=>{
-const HERO='/eventure-winter-hero.svg';
+const HERO='/share-story.jpg?v=20260910-0638';
 const EVENT_ID='trail-praloup';
 let scheduled=false;
 const addStyles=()=>{if(document.getElementById('eventureVisualPatchStyles'))return;const s=document.createElement('style');s.id='eventureVisualPatchStyles';s.textContent=`
-#publicContent .eventureShareHero{width:100%;display:block;border-radius:24px;margin:8px 0 18px;box-shadow:0 18px 45px #0b21172a;background:#dfeaf2}
+#publicContent .eventureShareHero{width:100%;display:block;border-radius:24px;margin:8px 0 18px;box-shadow:0 18px 45px #0b21172a;background:#dfeaf2;object-fit:cover;aspect-ratio:16/9}
 #discoverList .eventureWinterCard{height:auto;aspect-ratio:16/9;background:url('${HERO}') center/cover no-repeat;font-size:0;padding:0}
-#home .eventureHomeVisual{width:100%;display:block;border-radius:22px;margin:14px 0 10px;box-shadow:0 14px 34px #0b21171f;background:#dfeaf2}
+#home .eventureHomeVisual{width:100%;display:block;border-radius:22px;margin:14px 0 10px;box-shadow:0 14px 34px #0b21171f;background:#dfeaf2;object-fit:cover;aspect-ratio:16/9}
 #publicContent .shareBox h2{font-size:24px;line-height:1.1;margin:7px 0 6px}
 #publicContent .shareBox .shareHook{font-size:18px;line-height:1.35;font-weight:900;margin:8px 0;color:#fff}
 #publicContent .shareBox .shareDate{font-size:13px;line-height:1.45;color:#dbe8df;margin:0 0 10px}
