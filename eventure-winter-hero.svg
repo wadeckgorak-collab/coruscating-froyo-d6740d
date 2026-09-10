@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Winter Trail Pra Loup</title><desc id="d">Du 11 au 13 décembre 2026, un week-end à la montagne entre événement et temps libre.</desc>
+<defs>
+<linearGradient id="shade" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071a2b" stop-opacity=".92"/><stop offset=".46" stop-color="#071a2b" stop-opacity=".42"/><stop offset="1" stop-color="#071a2b" stop-opacity=".08"/></linearGradient>
+<linearGradient id="bottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#071a2b" stop-opacity="0"/><stop offset="1" stop-color="#071a2b" stop-opacity=".75"/></linearGradient>
+<filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="22" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1600" height="900" rx="38" fill="#dfeaf2"/>
+<image href="card-trail.jpg" width="1600" height="900" preserveAspectRatio="xMidYMid slice"/>
+<rect width="1600" height="900" rx="38" fill="url(#shade)"/>
+<rect y="540" width="1600" height="360" rx="38" fill="url(#bottom)"/>
+<g transform="translate(92 78)" fill="white">
+<text x="0" y="0" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="8" opacity=".9">EVENTURE · MONTAGNE · PARTAGE</text>
+<text x="0" y="140" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="16">WINTER TRAIL</text>
+<text x="0" y="285" font-family="Arial,Helvetica,sans-serif" font-size="150" font-weight="900" letter-spacing="-5">PRA LOUP</text>
+<text x="3" y="354" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="800" letter-spacing="8">DU 11 AU 13 DÉCEMBRE 2026</text>
+<rect x="0" y="390" width="112" height="9" rx="5" fill="#ff641f"/>
+<text x="0" y="472" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Un week-end à la montagne</text>
+<text x="0" y="525" font-family="Arial,Helvetica,sans-serif" font-size="42">entre événement et temps libre</text>
+</g>
+<g transform="translate(90 730)" font-family="Arial,Helvetica,sans-serif" fill="white">
+<g><circle cx="34" cy="34" r="34" fill="#ffffff" fill-opacity=".14"/><text x="82" y="24" font-size="26" font-weight="800">3 DEMI-JOURNÉES</text><text x="82" y="58" font-size="24">DE TEMPS LIBRE</text></g>
+<g transform="translate(480 0)"><circle cx="34" cy="34" r="34" fill="#ffffff" fill-opacity=".14"/><text x="82" y="24" font-size="26" font-weight="800">UNE AVENTURE</text><text x="82" y="58" font-size="24">HUMAINE</text></g>
+<g transform="translate(900 0)"><circle cx="34" cy="34" r="34" fill="#ffffff" fill-opacity=".14"/><text x="82" y="24" font-size="26" font-weight="800">AU CŒUR DE</text><text x="82" y="58" font-size="24">L’OUVERTURE DE LA STATION</text></g>
+</g>
+<rect x="42" y="42" width="1516" height="816" rx="30" fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="2"/>
+</svg>
